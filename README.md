@@ -1,43 +1,37 @@
 # Snowflake Fractal Generator ❄️
 
-A visually appealing **Python** script that generates intricate **Koch Snowflake fractals** using the **Turtle graphics library**. Watch recursion in action as the snowflake comes to life!
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Turtle](https://img.shields.io/badge/Graphics-Turtle-green?style=for-the-badge)
+![Art](https://img.shields.io/badge/Art-Generative-pink?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 📖 Overview
+
+A Python script that generates unique, colorful **snowflake fractals** using the `turtle` graphics module. It simulates the random nature of snowflakes by creating them in varying sizes, colors, and positions across the screen.
 
 ## ✨ Features
 
-- **Fractal Generation**: Implements the Koch Snowflake algorithm.
-- **Recursive Visualization**: Demonstrates recursive function calls visually.
-- **Turtle Graphics**: Uses the standard `turtle` module for drawing.
+-   **Generative Art**: Creates 20 unique snowflakes per run.
+-   **Randomization**: Random coordinates, sizes (1-4), and colors (white, blue, purple, grey, magenta).
+-   **Animation**: Watch the snowflakes being drawn in real-time.
 
-## 🚀 Getting Started
+## 🚀 Usage
 
-### Prerequisites
-
-- **Python 3.x** installed.
-
-### Installation & Usage
-
-1.  **Clone the repository**:
-    ```bash
-    git clone https://github.com/officialsimranagarwal/snowflake-fractal-in-python.git
-    cd snowflake-fractal-in-python
-    ```
-
-2.  **Run the script**:
+1.  **Run**:
     ```bash
     python sf1.py
     ```
-
-## 🛠️ Tech Stack
-
-- **Language**: Python
-- **Library**: `turtle` (Standard Library)
+2.  **Watch**: The "Elsa" turtle will draw the winter scene.
+3.  **Exit**: Click on the window to close it.
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
-## 📄 License
+## 👤 Author
 
-This project is open source and available under the [MIT License](LICENSE).
+**Simran Agarwal**
+-   [Profile](https://github.com/officialsimranagarwal)
+-   [LinkedIn](https://linkedin.com/in/simran-agarwal-54751b191)
+
+---
+*Generated with ❤️ by Simran Agarwal*
